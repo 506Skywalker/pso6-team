@@ -1,3 +1,4 @@
 Team members: saarushjaiswal and 506Skywalker
 Favorite programming language: TBD
 Team motto: With great coding ability comes great midterm results
+Team motto: Commit early, debug often
